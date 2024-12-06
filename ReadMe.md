@@ -1,0 +1,1 @@
+This is a portfolio of Kaori Ogawa for the work created in Creative Computation Lab in Fall 2024. 
